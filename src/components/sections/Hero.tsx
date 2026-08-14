@@ -45,8 +45,8 @@ export function Hero() {
           transition={{ duration: 0.55, delay: 0.16 }}
           className="mx-auto mt-6 max-w-2xl text-base text-muted-foreground text-pretty sm:text-lg"
         >
-          Computer Systems Engineering student specializing in C++, SQL, Networking, and
-          Full-Stack Development. Seeking a 12-Month Work-Integrated Learning (WIL) placement.
+          Computer Systems Engineering student specializing in C++, SQL, and Networking.
+          Seeking a 12-Month Work-Integrated Learning (WIL) placement.
         </motion.p>
 
         <motion.div

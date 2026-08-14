@@ -16,7 +16,7 @@ export function Competencies() {
 
       <div className="grid gap-5 sm:grid-cols-2">
         {competencies.map((c, i) => {
-          const Icon = icons[i % icons.length];
+          const Icon = icons[i % icons.length]!;
           return (
             <motion.article
               key={c.title}

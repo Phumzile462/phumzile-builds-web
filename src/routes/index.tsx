@@ -8,7 +8,7 @@ import { Education } from "@/components/sections/Education";
 import { Contact } from "@/components/sections/Contact";
 import { profile } from "@/lib/profile";
 
-const title = "Phumzile Moeketsi — Computer Systems Engineer";
+const title = "Phumzile Nokwazi Moeketsi — Computer Systems Engineer";
 const description =
   "Portfolio of Phumzile Nokwazi Moeketsi: C++, SQL, Cisco networking and full-stack engineering. Seeking a 12-month Work-Integrated Learning placement in Pretoria.";
 

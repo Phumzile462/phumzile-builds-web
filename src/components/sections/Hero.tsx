@@ -35,8 +35,8 @@ export function Hero() {
           transition={{ duration: 0.55, delay: 0.08 }}
           className="mt-7 text-4xl font-semibold tracking-tight text-balance sm:text-6xl"
         >
-          Engineering Scalable Systems &{" "}
-          <span className="glow-text text-primary">Modern Web Infrastructure.</span>
+          Phumzile Nokwazi{" "}
+          <span className="glow-text text-primary">Moeketsi</span>
         </motion.h1>
 
         <motion.p
